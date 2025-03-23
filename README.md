@@ -6,7 +6,7 @@
 |-------------------------------------------|
 | BTC                                       | 
 | TON                                       | 
-| SOLANA                                    | 
+
 
 ## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
