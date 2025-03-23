@@ -42,7 +42,7 @@ _______________________________________________
   - [SpiderLab](https://www.spyderlab.org/)
   - [Paxful](https://paxful.com/it/user/XXX)
 
-  # fraudulent Bitcoin
+# fraudulent Bitcoin
 
  [BaddBoyzBTC](https://github.com/mitchellkrogza/Badd-Boyz-Bitcoin-Scammers) - Содержит небольшую базу скам кошельков  
  
